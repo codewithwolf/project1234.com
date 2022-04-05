@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row-1 img{
+    height:80vh;
+    border: 1px solid black;
+    border-radius: 11px;
+    position: absolute;
+}
+  .row-1{
+      background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),  url(../images/aa.jpg);
+      width: 40vw;
+  }
+  .row-1 h4{
+      color: white;
+      text-align: center;
+      margin-top: 78px;
+  }
+ 
+.social img{
+   position: relative;
+   height: 30px;
+   margin-top:485px;
+   
+}
+ .container{
+     display: flex;
+     justify-content: space-around;
+     background-color: wheat;
+ }
+  .row-2{
+      margin-top:176px;
+  }
+  
+ .row-2 input{
+     
+     margin: 9px;
+     padding: 7px;
+     width: 21vw;
+     border-radius: 3px;
+ }
+  .logo img{
+      height:100px;
+      padding: 45px;
+      border-radius: 30px;
+  }
+  .btn{
+      
+      padding: 5px 20px;
+      margin: 8px;
+      border-radius: 14px;
+      background-color: black;
+      color: white;
+  }
+  .btn:hover{
+      cursor: pointer;
+      color: turquoise;
+  }
+  
